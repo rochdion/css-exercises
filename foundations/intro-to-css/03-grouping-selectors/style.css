@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.me,
+.no {/* Add CSS Styling */
+    font-size: 24px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.me {
+    background-color: rgb(0,0,0);
+    color: hsl(0, 0%, 100%)
+}
+
+.no {
+    background-color: #FFFF00;
+}
